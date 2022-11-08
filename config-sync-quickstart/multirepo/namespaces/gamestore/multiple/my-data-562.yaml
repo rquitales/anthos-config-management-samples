@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  fake-data: data-line-1
+  fake-data-2: data-line-2
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: my-data-562
+  namespace: gamestore
